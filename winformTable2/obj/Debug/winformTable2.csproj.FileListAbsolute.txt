@@ -1,0 +1,15 @@
+C:\Users\rlagy\source\repos\winformTable2\bin\Debug\winformTable2.exe.config
+C:\Users\rlagy\source\repos\winformTable2\bin\Debug\winformTable2.exe
+C:\Users\rlagy\source\repos\winformTable2\bin\Debug\winformTable2.pdb
+C:\Users\rlagy\source\repos\winformTable2\bin\Debug\MetroFramework.Design.dll
+C:\Users\rlagy\source\repos\winformTable2\bin\Debug\MetroFramework.dll
+C:\Users\rlagy\source\repos\winformTable2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.csprojAssemblyReference.cache
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.Form1.resources
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.Properties.Resources.resources
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.csproj.GenerateResource.cache
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.csproj.CoreCompileInputs.cache
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.csproj.CopyComplete
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.exe
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.pdb
+C:\Users\rlagy\source\repos\winformTable2\obj\Debug\winformTable2.UserForm.resources
