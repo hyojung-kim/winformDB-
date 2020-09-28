@@ -1,0 +1,11 @@
+C:\Users\rlagy\source\repos\winformTable3\bin\Debug\winformTable3.exe.config
+C:\Users\rlagy\source\repos\winformTable3\bin\Debug\winformTable3.exe
+C:\Users\rlagy\source\repos\winformTable3\bin\Debug\winformTable3.pdb
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.csprojAssemblyReference.cache
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.Form1.resources
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.Properties.Resources.resources
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.csproj.GenerateResource.cache
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.csproj.CoreCompileInputs.cache
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.exe
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.pdb
+C:\Users\rlagy\source\repos\winformTable3\obj\Debug\winformTable3.EmployeeForm.resources
